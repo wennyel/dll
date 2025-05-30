@@ -1,0 +1,40 @@
+# Arquivos compilados
+*.exe
+*.dll
+*.lib
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+
+# Diretórios de build
+build/
+Debug/
+Release/
+x64/
+x86/
+.vs/
+.vscode/
+
+# Arquivos temporários
+*.tmp
+*.log
+*.cache
+*.user
+*.suo
+*.sdf
+*.opensdf
+*.VC.db
+*.VC.opendb
+
+# Arquivos do sistema
+Thumbs.db
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Dependências
+node_modules/
+packages/
